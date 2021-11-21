@@ -4,7 +4,7 @@
 |----------------|--------------|
 | Wikipedia      | [link](https://en.wikipedia.org/wiki/Morris_worm) |
 | Kaspersky      | [link](https://www.kaspersky.com/blog/morris-worm-turns-25/3065) |
-| Symantec       | [link](https://technosquare.blogspot.com/2009/09/symantecs-10-most-dreaded-computer.html)
+| 10 Most Dreaded Malware (2009) | [link](https://technosquare.blogspot.com/2009/09/symantecs-10-most-dreaded-computer.html)
 
 Here is the original, de-compiled source code for the *Morris worm*, a historical  worm released into the wild on 2 Nov 1988.
 
