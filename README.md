@@ -7,7 +7,7 @@
 | Kaspersky      | [link](https://www.kaspersky.com/blog/morris-worm-turns-25/3065) |
 | 10 Most Dreaded Malware (2009) | [link](https://technosquare.blogspot.com/2009/09/symantecs-10-most-dreaded-computer.html) |
 
-Here is the original, de-compiled source code for the *Morris worm*, a historical  worm released into the wild on 2 Nov 1988.
+Here is the original, de-compiled source code for the *Morris Worm*, a historical [worm](https://en.wikipedia.org/wiki/Computer_worm) released into the wild on 2 Nov 1988.
 
 When working with all malware (old or new), exercise caution before running any potentially malicious code. This repository is not intended for any malicious use, but simply to act as an educational reference for malware researchers, educators, InfoSec students, and anyone interested in historical code.
 
